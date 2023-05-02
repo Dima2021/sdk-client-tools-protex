@@ -1,3 +1,14 @@
 {
-  "settingsInheritedFrom": "Dima2021/whitesource-config@master"
+  "settingsInheritedFrom": "Dima2021/whitesource-config@master",
+  "scanSettings": { 
+    "enableReachability": true
+  },
+  "scanSettingsSAST": {
+    "enableScan": true
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": false
+    }
+  }
 }

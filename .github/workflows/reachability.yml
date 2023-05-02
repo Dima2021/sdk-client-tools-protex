@@ -36,7 +36,7 @@ jobs:
         apiKey=$WS_APIKEY
         userKey=$WS_USERKEY
         wss.url=https://saas.whitesourcesoftware.com/agent
-        productName=GH_sdk-client-tools-protex-master
+        productName=GH_sdk-client-tools-protex
         projectName=Old_Prioritize
         enableImpactAnalysis=true
         resolveAllDependencies=false
